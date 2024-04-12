@@ -1,0 +1,111 @@
+Kaggle’s wrong turn: when AI becomes a teacher and humanity gets a failing grade | by Fabio Matricardi | Apr, 2024 | Generative AI
+https://medium.com/p/112da9a5b56e
+
+
+Kaggle’s wrong turn: when AI becomes a teacher and humanity gets a failing grade
+The wrong way to use LLM: a competition to destroy education and the roles of educators.
+
+Fabio Matricardi
+
+Published in Generative AI, a Medium publication
+
+April 2024
+
+I am a big fan of Machine learning, and attended most of the courses on Kaggle: they are good … and they are free! But yesterday I received an email about a really dangerous competition…
+
+The first automated essay scoring competition to tackle automated grading of student-written essays was twelve years ago. How far have we come from this initial competition? With an updated dataset and light years of new ideas we hope to see if we can get to the latest in automated grading to provide a real impact to overtaxed teachers who continue to have challenges with providing timely feedback, especially in underserved communities.
+
+The goal of this competition is to train a model to score student essays. Your efforts are needed to reduce the high expense and time required to hand grade these essays. Reliable automated techniques could allow essays to be introduced in testing, a key indicator of student learning that is currently commonly avoided due to the challenges in grading.
+
+In this article, we discuss why we should be totally pissed off!
+
+AI hired?
+
+I will be blunt here: guess who sponsored and promoted the competition?
+
+image from https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview
+
+Why these well-known people behind foundation/initiative names are so eager to make us a bunch of ignorant people, not able to have critical thinking?
+
+The education landscape is bewildered by the latest AI technologies, which appeared after the GPT-3 announcement. From fancy smartboards to interactive learning apps, the future of classrooms seems firmly rooted in artificial intelligence (AI).
+
+My daughter's classroom is on a completely different level compared to the ones I have been teaching up to twelve years ago: they use Google Classroom, and we have a digital school register to track down scores, assignments, and truancies…
+
+But hold on a sec — before we celebrate the robot takeover of education, let’s talk about something irreplaceable: the human teacher.
+
+passionate teacher — Photo by Kenny Eliason on Unsplash
+The essay whisperer: why reading matters
+
+You’ve spent a week wrestling with a complex essay topic, your mad teacher assigned to you. Finally, you submit your work, a culmination of your research, thoughts, and maybe even a tear or two (and sweats). And now... your essay is being fed into a machine, judged solely by an algorithm. That’s not cool… and sad.
+
+Personally, I would use a machine, if I knew the judge was going to be a machine, right? A huge amount of hours of your time, is judged by 5 seconds of AI algorithm.
+
+Really not cool!
+
+This isn’t some dystopian future; it’s actually the premise of some recent AI competitions at Kaggle.
+
+The idea? Train an AI model to score student essays.
+
+Automated Essay Scoring by Kaggle
+
+But here’s the problem: essays are more than just a bunch of grammar and sentence structure. They’re a window into a student’s soul.
+
+A good teacher isn’t just an essay-grading machine. They’re the essay whisperers, able to decipher your words, to understand your thought process, your arguments, and even your hidden anxieties about the topic.
+
+They can identify your strengths — maybe you have a knack for weaving together complex ideas or a way of using humor to make a point. They can also pinpoint weaknesses, helping you refine your research skills or tighten your writing style… and of course, they correct grammar mistakes (😱😱😱)
+
+What I learned from my mentors during the teaching years is educational.
+
+Fabio, let’s say you are grading an essay on Hegel and the cultural implications of the Idealism. Maybe your students’ essay have solid facts, but his analysis lacked a personal touch. A good teacher wouldn’t just slap a “C” on it and move on. A good teacher would identify his (or her) strengths (accurate information) and guide the student towards how to express his own opinions and experiences.
+
+This personal touch takes an essay from a dry report to a compelling piece of writing.
+
+I have been a teacher in middle and high schools for more than 20 years and moved after that to train new employees in my actual company: whatever the assignment (creative, written reports, multimedia, and so on) I have always enjoyed the scoring process, and learned more about my students (or colleagues) than in the daily fast-paced working days.
+
+a compass in live — Photo by Jamie Street on Unsplash
+The human Compass: guiding students beyond the tests
+
+Think back to your school days. Did the best teachers just drill facts into your head for standardized tests? Probably not.
+
+The best ones went the extra mile, acting as human compasses guiding you toward your academic North Star.
+
+They helped you discover your passions. Did you light up during science experiments or lose yourself in historical fiction? They noticed and encouraged your curiosity, maybe suggesting science fairs or recommending books aligned with your interests.
+
+They didn’t just ask you to be a good boy, test-compliant; they nurtured your individuality and helped you envision a future where your love for science or history could translate into a fulfilling career.
+
+And honestly if someone is able to trigger you to think about your future, that someone is a special person!
+
+Let’s face it, some subjects aren’t everyone’s cup of tea. But a good teacher has a superpower — the ability to make even the driest topic engaging. Think back to Ms. Brielli who somehow made math class feel like a thrilling detective story, or Mr. Piero who turned history lessons into time travel adventures. With their passion and creativity, they transformed rote memorization into an exciting journey of discovery.
+
+Here’s the thing, robots can’t replicate this special blend of knowledge and enthusiasm. They can’t analyze your body language to sense your disinterest or adjust their teaching style on the fly. They can’t connect with you on a human level and make you feel passionate about a subject.
+
+Only if you are a good teacher and communicator you can feel if the class is following you or not. You have to adjust your tone or use different examples on the spot.
+
+helping hands — Photo by Markus Spiske on Unsplash
+The human touch: much more than just grades
+
+Let’s be honest, school isn’t always sunshine and rainbows. Sometimes, life throws curveballs, and you need a teacher who’s more than just a walking textbook.
+
+They’re the ones who notice when you’re struggling, whether it’s a bad grade or a personal issue affecting your schoolwork. Maybe they have even been tipped off by the parents!
+
+They become confidants, offering a listening ear and a shoulder to lean on. They can even connect you with resources or support systems outside of the classroom.
+
+Think about a time you felt overwhelmed with academic pressure or personal problems. Did a teacher reach out and offer a helping hand? Maybe they extended deadlines or connected you with a counselor. These are moments where humans go beyond grading papers and become pillars of support.
+
+AI can’t replicate the human touch. It can’t offer words of encouragement during a challenging time or provide a safe space to talk about your struggles. It’s the human element — empathy, compassion, and genuine care — that sets teachers apart.
+
+Conclusions
+
+If you read already a few of my articles you may know that I am indeed an AI enthusiast: so what’s the take here? Am I taking a step back?
+
+Not really. A tool is only a tool, and Artificial Intelligence is a tool to be used for the right reasons and purposes.
+
+For every task that tries to deplete and reduce the best aspects of our humanity, I stand firmly against it!
+
+Sure, AI has its place in education. It can personalize learning experiences or handle repetitive tasks like grading simple quizzes.
+
+But let’s not get carried away. The magic of a human teacher lies in their ability to understand students as individuals, guide their learning journeys, and promote the love for knowledge… And no algorithm can ever replicate this.
+
+After all, education is much more than just grades, isn’t it?
+
+TAGS: Artificial Intelligence, Education, Local Gpt, Critical Thinking, Multidisciplinary
